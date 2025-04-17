@@ -93,5 +93,12 @@ jupyter notebook chalesh2,3.end.ipynb
 
 > 👩‍💻 تهیه و تنظیم: محبوبه
 > 
-> 📬 تماس: mahbube@example.com
 
+### 📫 راه‌های ارتباطی با من
+
+- 📧 ایمیل: [niayeshmirshekar92@gmail.com](mailto:niayeshmirshekar92@gmail.com)
+- 💼 لینکدین: [Mahboubeh Mirshekar](https://www.linkedin.com/in/mahbubeh-mirshekar-999640170)
+- اینستاگرام: airobo.project
+  کانال تلگرام:airobo_project
+
+---
