@@ -65,15 +65,7 @@ jupyter notebook chalesh2,3.end.ipynb
 
 ---
 
-## ساختار فایل‌ها
-```
-├── README.md
-├── requirements.txt
-├── chalesh2_3_end.py       # فایل اسکریپت اصلی
-├── chalesh2,3.end.ipynb    # نوت‌بوک پروژه
-└── audio/
-    └── notification.wav    # فایل صوتی اعلان
-```
+
 
 ---
 
